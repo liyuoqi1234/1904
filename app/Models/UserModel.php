@@ -14,4 +14,6 @@ class UserModel extends Model
     protected $guarded = [];
     //是否开启自动时间戳
     public $timestamps = false;
+
+    
 }
